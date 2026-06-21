@@ -1,0 +1,41 @@
+#ignoramamos el venv
+venv/
+#ignoramamos los archivos de pycache
+__pycache__/
+*.pyc
+#ignoramamos el archivo de configuracion de vscode
+.vscode/
+#ignoramamos el archivo de configuracion de pytest
+pytest.ini
+#ignoramamos el archivo de configuracion de flake8
+.flake8
+#ignoramamos el archivo de configuracion de mypy
+mypy.ini
+#ignoramamos el archivo de configuracion de black
+pyproject.toml
+#ignoramamos el archivo de configuracion de isort
+.isort.cfg
+#ignoramamos el archivo de configuracion de pre-commit
+.pre-commit-config.yaml
+#ignoramamos el archivo de configuracion de editorconfig
+.editorconfig
+#ignoramamos el archivo de configuracion de toxtox.ini
+#ignoramamos el archivo de configuracion de coverage.coverage
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.*
+#ignoramamos el archivo de configuracion de pytest-cov
+htmlcov/
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.xml
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.json
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.lcov
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.html
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.xml
+#ignoramamos el archivo de configuracion de pytest-cov
+.coverage.json
